@@ -16,7 +16,7 @@
     
  <ol>
      {% for good in goods %}
-        <li>{{ good }}</li>
+        <li>{{ loop.index }}{{ good }}</li>
      {% endfor %}
  </ol>
 </body>
