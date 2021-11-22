@@ -1,4 +1,6 @@
 Mouse 
 Keyboard
 Laptop
-Microphone
+Microphone 
+Флаг
+Bag
