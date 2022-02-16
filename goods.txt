@@ -4,3 +4,4 @@ Laptop
 Microphone 
 Флаг
 Bag
+Bug
